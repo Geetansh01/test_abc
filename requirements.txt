@@ -1,0 +1,9 @@
+datasets==3.0.2
+transformers==4.46.0
+pandas==2.2.3
+numpy==2.0.2
+sentencepiece==0.2.0
+tiktoken==0.8.0
+torch==2.5.1 //Install_it_separately. Also "+cu118" if GPU available
+scikit-learn==1.7.1
+matplotlib==3.10.5

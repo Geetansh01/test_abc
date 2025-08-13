@@ -1,0 +1,199 @@
+S.No.,Sentence,Label
+1,Introduction to Quantum Mechanics,1
+2,"In this chapter, we explore the foundational principles",0
+3,The Rise and Fall of Civilizations,1
+4,Historical records reveal the complex trajectory of empire-building.,0
+5,Part III: Advanced Mathematical Concepts,1
+6,A theorem is a statement that has been proven,0
+7,Act 1: A Stormy Night,1
+8,Thunder echoes across the stage as the scene opens,0
+9,Section 5: Fluid Dynamics in Mechanical Engineering,1
+10,"In fluid dynamics, the flow behavior is analyzed through Reynolds number",0
+11,The Economic Implications of Inflation,0.8
+12,Inflation affects purchasing power and currency stability,0
+13,Module 4: Digital Signal Processing Techniques,1
+14,Signal processing helps in analyzing discrete-time signals,0
+15,Chapter 7: Theories of Social Contracts,1
+16,Philosophers like Rousseau and Hobbes developed ideas,0
+17,Film Theory and Cinematic Language,0.8
+18,Cinematic language refers to the techniques used by filmmakers.,0
+19,Unit 6: Cellular Biology and Genetics,1
+20,The study of cells is fundamental to understanding genetics.,0
+21,Painting Styles in the Renaissance Era,0.9
+22,Renaissance artists emphasized realism and human emotion,0
+23,Table of Contents,1
+24,1. Introduction ................................... 1,1
+25,Axioms in Set Theory,1
+26,"In set theory, axioms provide a foundational framework",0
+27,Research Methods in Political Science,0.7
+28,Political scientists use qualitative and quantitative methods,0
+29,Preface,0.9
+30,This book is a reflection on the decades of research,0
+31,Finally some relief!,0.8
+32,A storm brews over the silent town,0.8
+33,The Beginning of an End,0.8
+34,Sarah gets a birthday gift.,0.5
+35,An Unexpected Visitor,0.8
+36,Should wizard hit mommy?,0.6
+37,A decision is never truly final.,0.5
+38,Victory at Dawn,0.75
+39,The enemy was nowhere to be seen,0.3
+40,Beyond the Mountains,0.8
+41,The candle flickered and then died,0.3
+42,Breaking the Chains,0.7
+43,Life under a microscope,0.5
+44,Strange Encounters,0.8
+45,The more things change,0.2
+46,in pursuit of the truth,0.2
+47,Lost in translation,0.75
+48,A Journey Through Time,0.85
+49,Time stood still as she opened the door,0.1
+50,The Science of Everyday Life,0.7
+51,A tale of two cities,0.8
+52,The boy stared at the blank page,0.3
+53,Winter's cold embrace,0.55
+54,"Chapter closed, or so they thought",0.6
+55,Every ending is a new beginning,0.6
+56,Mysterious phone calls at midnight,0.7
+57,What lies beyond the stars?,0.65
+58,The art of survival,0.7
+59,And then the lights went out,0.4
+60,How far is too far?,0.5
+61,Finally peace arrived after months of turmoil,0.45
+62,A Glimpse into the Unknown,0.75
+65,Unfolding the Secrets of Ancient Civilizations,0.8
+66,Rain poured heavily drenching the quiet town,0.35
+67,Moments Before the War Began,0.7
+68,In the world of quantum physics reality takes a strange turn,0.3
+69,The Symphony of Broken Dreams,0.9
+70,And so they marched forward with hope in their hearts,0.2
+71,Whispers from the Past,0.8
+72,In the middle of chaos he found his true calling,0.3
+73,Reflections on a Life Well Lived,0.85
+74,Despite the odds they won,0.45
+75,The Lost Kingdoms of History,0.8
+76,Beneath the ruins ancient artifacts lay hidden,0.3
+77,On the Road to Redemption,0.8
+78,In the dense forest silence reigned supreme,0.35
+79,When Machines Begin to Think,0.8
+80,A calm breeze swept through the deserted streets,0.3
+81,Echoes of a Distant Era,0.8
+82,The clock struck midnight and everything changed,0.4
+83,Towards a Better Future,0.85
+84,It was a journey unlike any other,0.3
+85,The Paradox of Choice,0.7
+86,A Journey to the Center of the Earth,0.8
+87,Amidst the confusion she made a life-changing decision,0.3
+88,What Comes After Victory?,0.6
+89,The Final Frontier of Human Exploration,0.9
+90,The stars twinkled brightly as if telling their own story,0.35
+91,In Pursuit of Happiness,0.5
+92,Beyond the Veil of Reality,0.85
+93,A Tale of Two Cities,0.9
+94,Through the fire he emerged unscathed,0.4
+95,A New Era Dawns,0.75
+96,At the heart of the problem lies a simple truth,0.5
+97,The Enigma of Time,0.75
+98,Beneath the Ocean Waves,0.6
+99,She smiled knowing that the worst was behind them,0.45
+100,Fragments of Forgotten Memories,0.9
+101,A night to remember,0.8
+102,They whispered secrets only the moon could hear,0.3
+103,The forgotten art of storytelling,0.8
+104,In the lab they observed the anomaly under the microscope,0
+105,Moments like these don't last forever,0
+106,At last the code compiled without errors,0
+107,Breaking the chains of tradition,0.85
+108,Through the glass she saw a world she couldn't reach,0.2
+109,The edge of reality,0.9
+110,There was something haunting about the way he said goodbye,0.2
+111,What could have been?,0.65
+112,The evolution of scientific thought,0.8
+113,With one step forward he plunged into the unknown,0.4
+114,A new perspective on time and space,0.6
+115,She knew the answer but hesitated,0.2
+116,Unlocking the power of mindfulness,0.75
+117,And just like that the story ended,0.4
+118,The untold stories of revolution,0.8
+119,In silence they found their answers,0.3
+120,Whispers of forgotten places,0.9
+121,The child smiled at her reflection in the puddle,0.35
+122,What lies beneath the surface?,0.55
+123,The legacy of great minds,0.85
+124,With every sunrise hope is renewed,0.55
+125,Into the heart of darkness,0.8
+126,The machine whirred to life emitting strange sounds,0.1
+127,A journey through time and memory,0.9
+128,She opened the letter and gasped,0.35
+129,The philosophy of everyday life,0.75
+130,Standing at the crossroads he made his choice,0.1
+131,Beyond the boundaries of imagination,0.85
+132,They laughed unaware of what was coming next,0.3
+133,On the brink of discovery,0.8
+134,A soft breeze rustled the pages of an open book,0.2
+135,The power of an idea,0.65
+136,What if this was the end?,0.7
+137,In search of answers he traveled far and wide,0.3
+138,The sound of silence,0.85
+139,Rain began to fall washing away the traces of the day,0.2
+140,An experiment in thought,0.7
+141,They watched as history unfolded before their eyes,0.2
+142,The path less taken,0.8
+143,A mystery lurked in the shadows of the old library,0.45
+144,The birth of a new era,0.85
+145,Lost in the rhythm of the music she danced,0.3
+146,What does the future hold?,0.65
+147,A chronicle of unseen events,1
+148,She found herself in a place she didn't recognize,0.3
+149,Where the wild things are,1
+150,A single light flickered in the distance,0.35
+151,Conversations at the edge of reality,0.7
+152,He looked at the stars and wondered,0.3
+153,Reimagining the world through art,0.85
+154,A faint smile crossed her lips,0
+155,The geometry of the universe,0.9
+156,There was a strange beauty in the chaos,0.2
+157,Echoes from the future,0.85
+158,In the end they found what they were looking for,0
+159,The dawn of artificial consciousness,0.85
+160,The forest whispered secrets only the wind could understand,0.1
+161,What remains unsaid?,0.65
+162,The art of forgetting,0.8
+163,A sudden chill filled the room,0.2
+164,In search of the infinite,0.85
+165,The door creaked open revealing a dark corridor,0.2
+166,Fragments of an imagined life,0.75
+167,The numbers didn't add up something was missing,0.2
+168,The shape of dreams,0.85
+169,And so the night ended,0.5
+170,The quantum nature of reality,0.9
+171,The clock ticked away marking the end of an era,0.45
+172,Reflections in a broken mirror,0.7
+173,He held the key but did he know it?,0.2
+174,The illusion of control,0.75
+175,In the ashes they found hope,0.4
+176,The anatomy of a revolution,0.85
+177,It was a place where reality seemed to bend,0.2
+178,A journey through parallel worlds,0.9
+179,The experiment had unexpected consequences,0.3
+180,Whispers from the multiverse,0.85
+181,Lost in translation,0.75
+182,She waited hoping for an answer,0.2
+183,The mechanics of thought,0.8
+184,They stood at the edge of infinity,0.35
+185,Exploring the unknown,0.85
+186,Every ending is a new beginning,0.5
+187,The sound of forgotten names,0.9
+188,He closed the door leaving the past behind,0.2
+189,Visions of a distant future,0.8
+190,In the blink of an eye everything changed,0.4
+191,The end of an illusion,0.85
+192,The stars seemed closer than ever,0.2
+193,Beyond the horizon,0.75
+194,And so they ventured forth,0.5
+195,The limits of human knowledge,0.85
+196,A silent tear escaped her eye,0.2
+197,Reflections on infinity,0.9
+198,He knew the answer but it didn't matter anymore,0
+199,The mystery of the missing piece,1
+200,A new story was waiting to be told,0.6
